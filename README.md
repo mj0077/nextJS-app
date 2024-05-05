@@ -1,3 +1,5 @@
+Find the screenshot.jpg in the files to get a view of the running webapp (will be hosted soon)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
